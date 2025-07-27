@@ -3,7 +3,7 @@
 
 Sometimes when a rocket has a bad day, the upper section of the body tube needs replacing. Instead of gluing a new coupler and tube to the surviving fin can, I can make the new section removeable with a bolted-on addition. I also use this approach when stretching an existing model to fit longer hybrid motors.
 
-However, with this approach the hidden nuts can be tricky. This 3D printed apparatus holds all the nuts in place at the same time. The drill alignment template enables you to drill out the holes on the external body tube for the bolts which "should" be "perfectly" aligned with the corresponding nuts.
+However, with this approach the hidden nuts can be tricky. This 3D printed apparatus holds all the nuts in place at the same time. The drill alignment template enables you to drill out the holes on the external body tube for the bolts which "should" be "perfectly" aligned with the corresponding nuts. The LOC 2.56 version holds size #8 bolts and the "Pinky" version fits a Composite Warehouse Pink Lady 4" fiberglass tube and #6 bolts. 
 
 CAUTION - Variations in the printing diameters introduce alignment errors. Some of the bolts may not hit their mark (see examples in the photos) but the connection is still solid.
 
