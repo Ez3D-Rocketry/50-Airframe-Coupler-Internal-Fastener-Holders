@@ -1,7 +1,7 @@
 # 9-Internal-Coupler-Bolt-Holders
 
 
-Sometimes when a rocket has a bad day, the top (or most of the top) of the body tube needs replacement. Instead of gluing a new coupler and tube to the surviving fin can, I make the new section removeable (i.e. easily replaceable) with a bolted-on addition. I also use this approach when stretching an existing model to fit longer hybrid motors. 
+Sometimes when a rocket has a bad day, the upper section of the body tube needs replacement. Instead of gluing a new coupler and tube to the surviving fin can, I make the new section removeable (i.e. easily replaceable) with a bolted-on addition. I also use this approach when stretching an existing model to fit longer hybrid motors. 
 
 However, with this approach the hidden nuts can be tricky. This 3D printed apparatus holds all the nuts in place at the same time. The drill alignment template enables you to drill out the holes on the external body tube which "should" be "perfectly" aligned with the corresponding nuts. 
 
