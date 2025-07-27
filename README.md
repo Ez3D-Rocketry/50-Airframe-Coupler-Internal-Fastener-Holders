@@ -7,6 +7,8 @@ However, with this approach the hidden nuts can be tricky. This 3D printed appar
 
 CAUTION - Variations in the printing diameters introduce alignment errors. Some of the bolts may not hit their mark (see examples in the photos) but the connection is still solid.
 
+Repository includes original FreeCad files. 
+
 
 
 
