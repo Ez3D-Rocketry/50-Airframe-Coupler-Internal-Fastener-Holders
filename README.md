@@ -1,4 +1,4 @@
-# 9 Airframe Coupler Internal Fastener Holders
+# Airframe Coupler Internal Fastener Holders
 
 
 Sometimes when a rocket has a bad day, the upper section of the body tube needs replacing. Instead of gluing a new coupler and tube to the surviving fin can, I can make the new section removeable with a bolted-on addition. I also use this approach when stretching an existing model to fit longer hybrid motors. 
