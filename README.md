@@ -2,6 +2,12 @@
 
 Internal bolts for connections
 
+Sometimes when a rocket has a bad day, the top (or most of the top) of the body tube needs replacing. Instead of gluing a new coupler and tube to the surviving fin can, I make the new section removeable (i.e. easily replaceable) with a bolted-on addition. 
+
+Hidden nuts can be tricky. This 3D printed aparatus holds all the nuts in place at the same time. The drill alighment template enables you to drill out the holes on the external body tube which "should" be "perfectly" aligned with the corresponding nuts. 
+
+CAUTION - Variations in the printing diameters introduce alighment errors. Some of the bolts may not hit thier mark (see examples in the photos). It's not the end of the world. 
+
 
 
 ![Hi-LOC Coupler External View v2](https://github.com/user-attachments/assets/d43a09b7-3dca-4452-83d3-d3c3a92fb6db)
