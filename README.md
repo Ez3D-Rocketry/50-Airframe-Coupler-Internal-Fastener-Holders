@@ -1,6 +1,5 @@
 # 9-Internal-Coupler-Bolt-Holders
 
-Internal bolts for connections
 
 Sometimes when a rocket has a bad day, the top (or most of the top) of the body tube needs replacing. Instead of gluing a new coupler and tube to the surviving fin can, I make the new section removeable (i.e. easily replaceable) with a bolted-on addition. 
 
